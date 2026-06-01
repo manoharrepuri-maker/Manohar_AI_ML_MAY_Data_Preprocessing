@@ -41,7 +41,7 @@ Data-Preprocessing-Pipeline/
 
 ├── README.md
 
-└── .gitignore
+
 
 ---
 
@@ -88,4 +88,4 @@ Data-Preprocessing-Pipeline/
 ```bash
 https://github.com/manoharrepuri-maker/Manohar_AI_ML_MAY_Data_Preprocessing
 
-cd Data-Preprocessing-Pipeline
+cd Data-Preprocessing
