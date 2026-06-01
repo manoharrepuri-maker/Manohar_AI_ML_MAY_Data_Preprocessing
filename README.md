@@ -1,4 +1,4 @@
-# Data Preprocessing Pipeline
+# Data Preprocessing 
 
 ## Project Overview
 
@@ -25,7 +25,7 @@ No machine learning models are trained in this project.
 
 ## Project Structure
 
-Data-Preprocessing-Pipeline/
+Data-Preprocessing/
 
 ├── data/
 
